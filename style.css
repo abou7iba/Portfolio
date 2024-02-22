@@ -118,7 +118,7 @@ nav a
 }
 .logo h1
 {
-    font-size: 20px;
+    font-size: 16px;
     display: inline;
     color: #fff;
     padding: 0px 10px;
@@ -409,7 +409,7 @@ main .hello
 }
 .pr-skills  h1
 {
-    font-size: 20px;
+    font-size: 16px;
     padding: 8px;
     border-radius: 10px;
 }
